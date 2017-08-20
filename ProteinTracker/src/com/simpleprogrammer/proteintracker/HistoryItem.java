@@ -28,7 +28,7 @@ public class HistoryItem {
 		this.amount = amount;
 		this.operation = operation;
 		this.total = total;
-		
+		//test
 	}
 
 }
